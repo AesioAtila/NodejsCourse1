@@ -1,0 +1,17 @@
+{
+  "name": "class4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "2.0.4",
+    "request": "2.87.0",
+    "uuid": "3.3.2"
+  }
+}
